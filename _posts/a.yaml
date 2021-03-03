@@ -1,0 +1,6 @@
+numero: 69
+letras: 'Hola soy Pablo'
+texto: Este es mi primer documento YAML
+
+texto2:	|-
+   Hola que tal.
